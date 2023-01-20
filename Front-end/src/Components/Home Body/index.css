@@ -1,0 +1,42 @@
+.homeBody {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 75px;
+    margin-top: 25px;
+}
+
+.heroText {
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+    gap: 25px;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: 500;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+button {
+    width: fit-content;
+    padding: 10px 50px;
+    border: 1px solid #237814;
+    border-radius: 10px;
+    background-color: #fff;
+    color: #237814;
+    font-size: 24px;
+    font-weight: 500;
+    align-self: flex-end;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #237814;
+    color: #fff;
+}
