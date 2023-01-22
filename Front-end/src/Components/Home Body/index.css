@@ -20,7 +20,7 @@ h2 {
 
 h4 {
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 button {
@@ -32,8 +32,11 @@ button {
     color: #237814;
     font-size: 24px;
     font-weight: 500;
-    align-self: flex-end;
     cursor: pointer;
+}
+
+.createRoom {
+    align-self: flex-end;
 }
 
 button:hover {
