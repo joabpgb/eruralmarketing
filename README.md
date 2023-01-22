@@ -6,6 +6,10 @@
 -   ⚛️ React 18.
 -   ⛑ Javascript.
 
+**Prototipação**
+-   🎨 Figma.
+- Protótipo no link: https://www.figma.com/file/aqhRmefNq9MhPQ8fwPVqSr/eRural?node-id=0%3A1&t=AwT6TElmpj56jjgq-1
+
 ### Instruções de instalação
 
 **Front-end**
